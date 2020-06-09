@@ -1,0 +1,10 @@
+Bayesian Personalized Ranking 算法解析及Python实现：https://www.cnblogs.com/wkang/p/10217172.html
+Recommending items to more than a billion people（面向十亿级用户的推荐系统）：https://www.cnblogs.com/wkang/p/10014191.html
+DeepFM算法解析及Python实现：https://www.cnblogs.com/wkang/p/9881921.html
+FFM算法解析及Python实现：https://www.cnblogs.com/wkang/p/9788012.html
+GBDT+LR算法解析及Python实现：https://www.cnblogs.com/wkang/p/9657032.html
+FM算法解析及Python实现：https://www.cnblogs.com/wkang/p/9588360.html
+DeepFM算法解析及Python实现：https://blog.csdn.net/weixin_30883777/article/details/96301622?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159167466319724835813743%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=159167466319724835813743&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v2~pc_rank_v3-1-96301622.first_rank_ecpm_v2_pc_rank_v3&utm_term=DeepFM%E7%AE%97%E6%B3%95%E8%A7%A3%E6%9E%90%E5%8F%8APython%E5%AE%9E%E7%8E%B0
+
+GBDT+LR CTR预估-Kaggle实例[有数据集]：https://www.jianshu.com/p/73adce3fd975
+数据集：https://www.kaggle.com/c/avazu-ctr-prediction/data
